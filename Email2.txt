@@ -1,0 +1,11 @@
+Email 2	
+Subject: Application for Summer Internship Opportunity
+Dear Ms. Kapoor,
+I hope you are doing well. My name is Satwik Verma, a second-year Computer Science student at XYZ University. I came across your company’s summer internship program and am very interested in applying.
+I am passionate about software development and have experience with GitHub, Python, and collaborative projects. I believe this internship would be a valuable opportunity to contribute meaningfully while learning from your team.
+Please let me know if there are any application steps I should follow. I’ve attached my resume and portfolio links for your reference.
+Thank you for your time and consideration.
+Best regards,
+Satwik Singh
+satwik.singh@email.com
+GitHub: github.com/satwiksingh
