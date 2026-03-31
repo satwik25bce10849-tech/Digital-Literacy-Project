@@ -1,0 +1,19 @@
+Part A
+Case Study: Phishing Attack on a College Student
+Phishing is one of the most common forms of cybercrime, targeting individuals through deceptive emails, messages, or websites that appear legitimate. The crime typically unfolds in several steps. First, the attacker crafts a convincing message, often imitating a trusted institution such as a bank or university. Next, the victim receives the message, which usually contains urgent language like “Your account will be blocked unless you act now.” The message includes a link to a fake website designed to capture sensitive information. Once the victim enters their login credentials or financial details, the attacker gains unauthorized access.
+Phishing primarily targets students, professionals, and anyone who regularly uses email or online banking. College students are particularly vulnerable because they often juggle multiple accounts and may not scrutinize every message carefully.
+The consequences can be severe: stolen identities, drained bank accounts, or compromised academic records. In some cases, attackers use stolen credentials to spread further scams, amplifying the damage. Phishing thrives on human error, making awareness and vigilance the most effective defense.
+This case study highlights the importance of critical thinking and verifying sources before clicking links or sharing personal information online
+
+How it happens (step-by-step):
+1.	The attacker crafts a convincing email or SMS, often imitating a bank, payment app, or even a university portal.
+2.	The message uses urgency or fear — for example: “Your UPI account will be suspended unless you verify immediately.”
+3.	A malicious link redirects the victim to a fake website that looks identical to the legitimate one.
+4.	The victim enters their username, password, or UPI PIN, believing they are securing their account.
+5.	The attacker instantly captures these details and uses them to transfer money, access accounts, or steal identity information.
+Targeted individuals:
+Students and young professionals are particularly vulnerable. They frequently use online portals and UPI apps, often multitask while studying or working, and may overlook small signs of fraud.
+Consequences:
+Victims face direct financial loss, compromised accounts, and emotional stress. In one real incident reported in The Hindu (2023), a Bengaluru student lost ₹45,000 after entering details on a fake UPI page. Beyond monetary damage, phishing can lead to identity theft, misuse of personal data, and long-term reputational harm. For students, this can mean losing trust in digital platforms, difficulty recovering stolen funds, and anxiety about future online transactions.
+Phishing demonstrates how cybercriminals exploit human psychology more than technology, making awareness and vigilance the most effective defence. 
+
